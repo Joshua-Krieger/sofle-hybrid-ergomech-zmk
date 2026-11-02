@@ -16,6 +16,7 @@ include:
   - board: seeeduino_xiao_ble
     shield: sofle_ergomech_left nice_view 
     snippet: zmk-usb-logging
+    cmake-args: -DCONFIG_ZMK_STUDIO=y
   - board: seeeduino_xiao_ble
     shield: sofle_ergomech_right nice_view 
   - board: seeeduino_xiao_ble
