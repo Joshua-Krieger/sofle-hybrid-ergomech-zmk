@@ -100,6 +100,12 @@
              &kp A  &kp LGUI &kp LALT &kp LCTRL &mo LOWER  &kp RET    &kp SPACE  &mo RAISE  &kp RCTRL &kp RALT  &kp RGUI &kp B
             >;
         };
+		reserved1 {
+			label = "reserved1";
+		};
+		reserved2 {
+			 label = "reserved1";
+		};
 
     };
 };
