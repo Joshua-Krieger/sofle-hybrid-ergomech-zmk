@@ -100,11 +100,14 @@
              &kp A  &kp LGUI &kp LALT &kp LCTRL &mo LOWER  &kp RET    &kp SPACE  &mo RAISE  &kp RCTRL &kp RALT  &kp RGUI &kp B
             >;
         };
-		reserved1 {
-			label = "reserved1";
+		gaming {
+			display-name = "Gaming";
+			status = "reserved";
 		};
-		reserved2 {
-			 label = "reserved1";
+
+		media {
+			display-name = "Media";
+			status = "reserved";
 		};
 
     };
